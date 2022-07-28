@@ -11,4 +11,4 @@ provided is in good shape
 Technology and Libraries Used: Torch, Torch Vision, Pillow, Glob, Pandas, NumPy, AWS Sagemaker
 
 
-Dataset Link : https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/concrete_crack_images_for_classification.zip%20-P%20/resources/data
+Dataset Link : https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/concrete_crack_images_for_classification.zip
